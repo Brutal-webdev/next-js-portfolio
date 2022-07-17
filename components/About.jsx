@@ -14,7 +14,7 @@ const About = () => {
                     Who I Am
                 </h2>
                 <p className='py-2 text-gray-600'>
-                    // I am not your normal developer
+                    I am not your normal developer
                 </p>
                 <p className='py-2 text-gray-600'>
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod error at vel tenetur mollitia dicta dolorem eaque necessitatibus eveniet accusantium! Officia odit quaerat rerum quae animi odio? Earum, repellat eius enim ratione reiciendis quia quas laboriosam error consequatur velit doloremque asperiores voluptate possimus. Non perspiciatis itaque veritatis repellat natus vel!

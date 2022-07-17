@@ -13,16 +13,16 @@ const About = () => {
                 <h2 className='py-4'>
                     Who I Am
                 </h2>
-                <p className='py-2 text-gray-600'>
+                <p className='py-2 text-gray-600 dark:text-gray-200'>
                     I am not your normal developer
                 </p>
-                <p className='py-2 text-gray-600'>
+                <p className='py-2 text-gray-600 dark:text-gray-200'>
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod error at vel tenetur mollitia dicta dolorem eaque necessitatibus eveniet accusantium! Officia odit quaerat rerum quae animi odio? Earum, repellat eius enim ratione reiciendis quia quas laboriosam error consequatur velit doloremque asperiores voluptate possimus. Non perspiciatis itaque veritatis repellat natus vel!
                 </p>
-                <p className='py-2 text-gray-600'>
+                <p className='py-2 text-gray-600 dark:text-gray-200'>
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione rem illo nam doloremque velit? Vitae iusto animi atque dignissimos. Voluptatum ut a commodi ipsam excepturi necessitatibus. Quibusdam hic unde facilis.
                 </p>
-                <p className='py-2 text-gray-600 underline cursor-pointer'>
+                <p className='py-2 text-gray-600 underline cursor-pointer dark:text-gray-200'>
                     Check out some of my latest projects.
                 </p>
             </div>

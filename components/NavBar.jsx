@@ -55,7 +55,7 @@ useEffect(()=> setMounted(true), []);
                 </ul>
                 <div className='flex justify-between items-center'>
                     <div className='rounded-full shadow-md shadow-gray-400 p-2 cursor-pointer mx-8 dark:shadow-sm dark:bg-[#1f2937]' onClick={() => {
-                        setTheme(theme === 'dark' ? 'light' : 'dark')
+                        setTheme(theme === 'light' ? 'dark' : 'light')
                     }}>
                         {theme === 'light' ? <HiMoon size={25}/> : <HiSun size={25}/>}
                     </div>
